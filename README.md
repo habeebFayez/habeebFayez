@@ -40,9 +40,3 @@
 - 🎨 I treat UI design like storytelling — it should guide users smoothly and creatively
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub!;Have+a+great+day!+%F0%9F%8C%9F" alt="thanks for visiting" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
