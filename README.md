@@ -32,19 +32,18 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habeebFayez&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=habeebFayez&theme=tokyonight" />
-</p>
+![Habeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=habeebFayez&show_icons=true&theme=radical&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habeebFayez&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habeebFayez&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habeebFayez&theme=radical)
+
+</div>
+
 
 ---
 
