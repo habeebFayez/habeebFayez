@@ -14,10 +14,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently a Software Engineering student at Üsküdar University, with a **3.8 GPA**
-- 🌍 I’ve interned at ATS (Amman, Jordan) and explored **Spring MVC** and **JSF**
+- 🔭 I’m  a Software Engineering student at Üsküdar University,
+- 🌍 I’ve interned at ATS (Amman, Jordan) and explored **Spring MVC** and **JSF**,  and **React JS** 
 - 💡 I love building full-stack web and mobile apps, especially using **React Native**, **Expo**, **Spring Boot**, and **React JS**
-- 🎯 I focus on **clean code**, **UI creativity**, and aligning with **Figma designs**
+- 🎯 I focus on **clean code**, ** UI creativity**,** Esay Flow ** and aligning with **Figma designs**
 - 🚀 Always exploring new tech and pushing boundaries in UI/UX
 
 ---
