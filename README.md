@@ -20,12 +20,26 @@
 - 🎯 I focus on **clean code**, ** UI creativity**,** Esay Flow ** and aligning with **Figma designs**
 - 🚀 Always exploring new tech and pushing boundaries in UI/UX
 
+
 ---
 
-### 🧰 Tech Stack & Tools
+### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,reactnative,js,ts,html,css,tailwind,bootstrap,nodejs,python,mysql,postgres,git,github,vscode,intellij" />
+  <img src="https://skillicons.dev/icons?i=java,cs,spring,react,reactnative,js,ts,html,css,mysql,tailwind,figma,postman,git,github,expo" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/habeeb-fayez-41647910a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/habeebFayez/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -33,23 +47,29 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habeebalmseideen&show_icons=true&theme=tokyonight" alt="Habeeb's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=habeebFayez&show_icons=true&theme=tokyonight" />
 </p>
 
-### 📈 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=habeebFayez&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habeebalmseideen&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habeebFayez&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
 
-### ✨ Fun Fact
+### 🧠 Fun Facts
 
-> I tend to explore more UI possibilities than the scope requires — and that's when I create my best work.
+- 💡 Always looking for inspiration to make things more user-friendly and efficient
+- 🎯 Goal: Build impactful apps and contribute to real-world solutions
+- 🎨 I treat UI design like storytelling — it should guide users smoothly and creatively
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!+Let's+build+something+awesome+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+GitHub!;Have+a+great+day!+%F0%9F%8C%9F" alt="thanks for visiting" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
