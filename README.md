@@ -29,18 +29,6 @@
   <img src="https://skillicons.dev/icons?i=java,cs,spring,react,reactnative,js,ts,html,css,mysql,tailwind,figma,postman,git,github,expo" />
 </p>
 
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/habeeb-fayez-41647910a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/habeebFayez/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
 ---
 
