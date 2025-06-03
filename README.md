@@ -32,22 +32,8 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Habeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=habeebFayez&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habeebFayez&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habeebFayez&theme=radical)
-
-</div>
-
-
----
-
-### 🧠 Fun Facts
+### 🧠 Facts
 
 - 💡 Always looking for inspiration to make things more user-friendly and efficient
 - 🎯 Goal: Build impactful apps and contribute to real-world solutions
