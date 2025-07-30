@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habeeb Fayez</h1>
-<h3 align="center">A Passionate Software Engineering Student and Full-Stack Developer</h3>
+<h3 align="center">A Passionate Software Engineering and Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/habeeb-fayez-41647910a/">
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m  a Software Engineering student at Üsküdar University,
+- 🔭 I’m  a Software Engineering,
 - 🌍 I’ve interned at ATS (Amman, Jordan) and explored **Spring MVC** and **JSF**,  and **React JS** 
 - 💡 I love building full-stack web and mobile apps, especially using **React Native**, **Expo**, **Spring Boot**, and **React JS**
 - 🎯 I focus on **clean code**, ** UI creativity**,** Esay Flow ** and aligning with **Figma designs**
